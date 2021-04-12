@@ -1,4 +1,4 @@
-
+[![Banner for KirkNotCaptain](https://github.com/KirkNotCaptain/KirkNotCaptain/blob/main/assets/ck-linkedin-banner.jpeg)](https://www.linkedin.com/in/christina-kirk-202/)
 <!--
 **KirkNotCaptain/KirkNotCaptain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
